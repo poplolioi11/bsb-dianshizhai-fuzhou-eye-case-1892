@@ -1,0 +1,180 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 4,
+  "changes": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 1,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "今夫天下之",
+      "after": "今天下不乏",
+      "reason": "從今到扁之間為天下不乏。不字與下字的斜筆可各辨。",
+      "source_bbox": [
+        1830,
+        452,
+        1883,
+        651
+      ],
+      "offset": 1,
+      "source_image_sha256": "6ec9d64a5a7d26977ced47d4cb78d437e626c2b9fc320c71240fd2138f17e1ec",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075646/canvas/417"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 9,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "勿賸論□",
+      "after": "勿賸論所",
+      "reason": "論後左側戶形與右下斜豎依所，賸仍保留候選。",
+      "source_bbox": [
+        1474,
+        453,
+        1520,
+        781
+      ],
+      "offset": 4,
+      "source_image_sha256": "6ec9d64a5a7d26977ced47d4cb78d437e626c2b9fc320c71240fd2138f17e1ec",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075646/canvas/417"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 12,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "治適",
+      "after": "治經",
+      "reason": "治下字左為糸線，右形巠，有平行底筆，照經。",
+      "source_bbox": [
+        1345,
+        451,
+        1390,
+        680
+      ],
+      "offset": 1,
+      "source_image_sha256": "6ec9d64a5a7d26977ced47d4cb78d437e626c2b9fc320c71240fd2138f17e1ec",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075646/canvas/417"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 8,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "以補",
+      "after": "以彌",
+      "reason": "以後字左筆折成弓形沒有衣旁，右側近爾的簡寫，錄彌。",
+      "source_bbox": [
+        790,
+        448,
+        845,
+        687
+      ],
+      "offset": 1,
+      "source_image_sha256": "6ec9d64a5a7d26977ced47d4cb78d437e626c2b9fc320c71240fd2138f17e1ec",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075646/canvas/417"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075646/canvas/417",
+      "status": "保留形近候讀"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 9,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075646/canvas/417",
+      "status": "保留形近候讀"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 13,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075646/canvas/417",
+      "status": "保留形近候讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075646/canvas/417",
+      "status": "保留形近候讀"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 6,
+      "source_bbox": [
+        1608,
+        447,
+        1655,
+        615
+      ],
+      "source_image_sha256": "6ec9d64a5a7d26977ced47d4cb78d437e626c2b9fc320c71240fd2138f17e1ec",
+      "offset": 1,
+      "text": "時昇里塔亭街地方有濟世",
+      "candidate": "對岸里塔亭街地方有濟世",
+      "reason": "時左有日，右見寺部末筆。第二字上近小日，下有升的直撇。"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 6,
+      "source_bbox": [
+        878,
+        453,
+        932,
+        734
+      ],
+      "source_image_sha256": "6ec9d64a5a7d26977ced47d4cb78d437e626c2b9fc320c71240fd2138f17e1ec",
+      "offset": 6,
+      "text": "聞而求治者踵趾相接",
+      "candidate": "聞而求治者踵□相接",
+      "reason": "踵下仍見足旁，右部末作短平筆，候讀趾，亦存跡、跐。"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "kind": "issue-mark",
+      "text": "匏一",
+      "candidates": [
+        "□一"
+      ],
+      "source_bbox": [
+        49,
+        2018,
+        102,
+        2124
+      ],
+      "source_image_sha256": "6ec9d64a5a7d26977ced47d4cb78d437e626c2b9fc320c71240fd2138f17e1ec",
+      "reason": "圖外期末字左具夸上下筆，右部末鉤合包，依卷首及同號版記讀匏。"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "kind": "artist-signature",
+      "text": "符節",
+      "candidates": [
+        "符即"
+      ],
+      "source_bbox": [
+        2257,
+        2059,
+        2293,
+        2124
+      ],
+      "source_image_sha256": "6ec9d64a5a7d26977ced47d4cb78d437e626c2b9fc320c71240fd2138f17e1ec",
+      "reason": "節左縮形，竹頭有小短筆。與同刊書四第32圖末款互核相合。"
+    }
+  ]
+}

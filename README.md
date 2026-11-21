@@ -4,11 +4,11 @@
 
 Gu mu fu ming [Sight Restored], published in the Dianshizhai Pictorial in 1892, reports that a patient who had long been blind sought care at the Jishi Hospital in Fuzhou. The article recounts an examination, treatment and the outcome reported by the newspaper. It provides an illustrated source for the history of care seeking and the portrayal of Western hospitals in late Qing Fujian.
 
-## V0.1.0
+## V0.2.0
 
-完整圖說24欄，附篇題、圖號、刊號、畫款及印記定位。TXT 附連讀全文。AI 輔助轉錄，原圖未明的字形保留位置。
+完整圖說24欄，附篇題、圖號、刊號、畫款及印記定位。TXT 附連讀全文。比對獨立原圖讀法後回圖裁定，採用 4 筆訂正，留存疑讀定位。
 
-The complete report has 24 columns with the title, plate and issue numbers, artist signature and seal locations. The TXT includes continuous reading text. AI-assisted transcription with unresolved glyphs marked.
+The complete report has 24 columns with the title, plate and issue numbers, artist signature and seal locations. The TXT includes continuous reading text. An independent image reading was compared with the first transcription. Source-image adjudication adopted 4 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

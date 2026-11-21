@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -67,7 +67,7 @@
         <div n="1" type="scan" subtype="complete-illustrated-report">
           <div type="page-face" n="right" xml:lang="lzh">
             <ab type="column" n="1" xml:id="f01-r-c01">
-              <seg type="diplomatic-text">今夫天下之扁盧妙手因病</seg>
+              <seg type="diplomatic-text">今天下不乏扁盧妙手因病</seg>
             </ab>
             <ab type="column" n="2" xml:id="f01-r-c02">
               <seg type="diplomatic-text">施藥輒奏奇功而於目疾獨</seg>
@@ -91,7 +91,7 @@
               <seg type="diplomatic-text">手之目凡疑難之症醫治獲</seg>
             </ab>
             <ab type="column" n="9" xml:id="f01-r-c09">
-              <seg type="diplomatic-text">痊者姑勿賸論□奇者有鄉</seg>
+              <seg type="diplomatic-text">痊者姑勿賸論所奇者有鄉</seg>
             </ab>
             <ab type="column" n="10" xml:id="f01-r-c10">
               <seg type="diplomatic-text">人王玉山素業手藝雙目失</seg>
@@ -100,7 +100,7 @@
               <seg type="diplomatic-text">明業已九年一日至該館求</seg>
             </ab>
             <ab type="column" n="12" xml:id="f01-r-c12">
-              <seg type="diplomatic-text">治適西醫亞丹先生為之診</seg>
+              <seg type="diplomatic-text">治經西醫亞丹先生為之診</seg>
             </ab>
             <ab type="column" n="13" xml:id="f01-r-c13">
               <seg type="diplomatic-text">視曰目珠似雉子一重又一</seg>
@@ -147,7 +147,7 @@
               <seg type="diplomatic-text">不知西醫皆能療治</seg>
             </ab>
             <ab type="column" n="8" xml:id="f01-l-c08">
-              <seg type="diplomatic-text">以補天地之缺憾</seg>
+              <seg type="diplomatic-text">以彌天地之缺憾</seg>
             </ab>
             <ab type="column" n="9" xml:id="f01-l-c09">
               <seg type="diplomatic-text">否耶</seg>
@@ -167,19 +167,31 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">右側三字直標並左列明字為篇題。正文右15欄、左9欄。左版記與右下款印分錄。</ab>
+            <ab type="transcription-issue" n="right:4">
+              <quote>亦祗能</quote>
+              <seg type="candidate">祗</seg>
+              <seg type="candidate">祇</seg>
+              <note type="editorial">示旁可辨，右下細筆疊墨，今仍依原錄。</note>
+            </ab>
             <ab type="transcription-issue" n="right:9">
-              <quote>勿賸論□奇者</quote>
+              <quote>勿賸論所</quote>
               <seg type="candidate">賸</seg>
+              <seg type="candidate">臚</seg>
               <seg type="candidate">贅</seg>
-              <seg type="candidate">噫</seg>
-              <seg type="candidate">嗟</seg>
-              <note type="editorial">論兩側有走筆，待核各字。</note>
+              <note type="editorial">勿後字左部近月，右下部手寫密疊，保留初讀候選。</note>
             </ab>
             <ab type="transcription-issue" n="right:13">
               <quote>似雉子</quote>
               <seg type="candidate">雉</seg>
               <seg type="candidate">雞</seg>
-              <note type="editorial">隹旁上有細筆，依初讀保留候選。</note>
+              <note type="editorial">右部近隹，左側似矢，與雞字的奚旁尚待比較。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:6">
+              <quote>踵趾相接</quote>
+              <seg type="candidate">趾</seg>
+              <seg type="candidate">跡</seg>
+              <seg type="candidate">跐</seg>
+              <note type="editorial">踵後字足旁明確，右側短平筆部分連接。</note>
             </ab>
           </div>
         </div>
