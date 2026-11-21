@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "title": "《點石齋畫報》〈瞽目復明〉",
+    "roman_title": "Dian shi zhai hua bao: Gu mu fu ming",
+    "author": "《點石齋畫報》編刊者（畫款符節，正文無署名）",
+    "date": "光緒十八年（1892），匏一第五圖",
+    "location": "München",
+    "repository": "巴伐利亞邦立圖書館（Bayerische Staatsbibliothek）",
+    "collection": "點石齋畫報，第 3 函",
+    "shelfmark": "L.sin. K 175-23/30",
+    "catalogue": "https://opacplus.bsb-muenchen.de/title/BV040390408",
+    "manifest_url": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075646/manifest",
+    "language": "lzh",
+    "description": "1892 年《點石齋畫報》匏一第五圖〈瞽目復明〉報導福州一位長期失明的患者到濟世醫館求診，描述院內西醫診察、施治與報紙所記的轉歸。這則圖文可用於研究晚清福建的就醫經驗、西醫院形象與新聞如何報導患者。",
+    "description_en": "Gu mu fu ming [Sight Restored], published in the Dianshizhai Pictorial in 1892, reports that a patient who had long been blind sought care at the Jishi Hospital in Fuzhou. The article recounts an examination, treatment and the outcome reported by the newspaper. It provides an illustrated source for the history of care seeking and the portrayal of Western hospitals in late Qing Fujian.",
+    "txt_reader_statement": "從右半讀至左半，各面正文依直欄自右往左。篇題、版記與圖款另錄。文末附連讀全文。□ 表示未定字。",
+    "tei_editorial_statement": "依第417幅逐欄錄兩面完整圖說。另標篇題、畫款、刊記與印記位置。連讀全文按原欄序串接。",
+    "record_id": "BSB00075646F417",
+    "edition": "0.1.0",
+    "original_publication_year": 1892,
+    "original_publication_place": "上海",
+    "version": "0.1.0",
+    "dataset_title": "《點石齋畫報》〈瞽目復明〉（1892 年，巴伐利亞邦立圖書館 bsb00075646） / Gu mu fu ming [Sight Restored]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "catalogue_frame": 417,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075646/canvas/417",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v3/bsb00075646_00417/full/2400,/0/default.jpg",
+      "native_width": 2400,
+      "native_height": 2364,
+      "source_service_width": 4159,
+      "source_service_height": 4097,
+      "sha256": "6ec9d64a5a7d26977ced47d4cb78d437e626c2b9fc320c71240fd2138f17e1ec",
+      "bytes": 1280964,
+      "printed_issue": "匏一",
+      "printed_plate": "五",
+      "historic_publication_year": 1892,
+      "label": {
+        "none": [
+          "匏一・五・瞽目復明"
+        ]
+      },
+      "article_title": "瞽目復明",
+      "image_rights": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "content_role": "complete-illustrated-report",
+      "observations": "右側三字直標並左列明字為篇題。正文右15欄、左9欄。左版記與右下款印分錄。",
+      "state": "transcribed",
+      "sides": [
+        {
+          "side": "right",
+          "main_language": "lzh",
+          "columns": [
+            {
+              "text": "今夫天下之扁盧妙手因病"
+            },
+            {
+              "text": "施藥輒奏奇功而於目疾獨"
+            },
+            {
+              "text": "少治法即市上偶有專醫眼"
+            },
+            {
+              "text": "科者亦祗能治未瞽之目而"
+            },
+            {
+              "text": "不能治已瞽之目也乃福州"
+            },
+            {
+              "text": "時昇里塔亭街地方有濟世"
+            },
+            {
+              "text": "醫館其中西醫二人皆有國"
+            },
+            {
+              "text": "手之目凡疑難之症醫治獲"
+            },
+            {
+              "text": "痊者姑勿賸論□奇者有鄉"
+            },
+            {
+              "text": "人王玉山素業手藝雙目失"
+            },
+            {
+              "text": "明業已九年一日至該館求"
+            },
+            {
+              "text": "治適西醫亞丹先生為之診"
+            },
+            {
+              "text": "視曰目珠似雉子一重又一"
+            },
+            {
+              "text": "重共三十二重今子目有翳"
+            },
+            {
+              "text": "在第四重宜用刀割之藥水"
+            }
+          ],
+          "extras": [
+            {
+              "type": "article-title",
+              "location": "篇題",
+              "text": "瞽目復明",
+              "figure_zone": "f01-r-feature-1",
+              "language": "lzh"
+            },
+            {
+              "type": "artist-signature",
+              "location": "圖內右下畫款",
+              "text": "符節",
+              "figure_zone": "f01-r-feature-2",
+              "language": "lzh"
+            },
+            {
+              "type": "artist-seal",
+              "location": "畫款下方印",
+              "text": "",
+              "figure_zone": "f01-r-feature-3"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "main_language": "lzh",
+          "columns": [
+            {
+              "text": "敷之去其蔽障則目自明"
+            },
+            {
+              "text": "矣惟不可割至第五重蓋第"
+            },
+            {
+              "text": "五重係最要之樞幸是處"
+            },
+            {
+              "text": "尚無翳耳如法治之旬餘"
+            },
+            {
+              "text": "目果復明於是該處瞽人"
+            },
+            {
+              "text": "聞而求治者踵趾相接"
+            },
+            {
+              "text": "不知西醫皆能療治"
+            },
+            {
+              "text": "以補天地之缺憾"
+            },
+            {
+              "text": "否耶"
+            }
+          ],
+          "extras": [
+            {
+              "type": "form-mark",
+              "location": "原刊圖號",
+              "text": "五",
+              "figure_zone": "f01-l-feature-1",
+              "language": "lzh"
+            },
+            {
+              "type": "form-mark",
+              "location": "原刊期碼",
+              "text": "匏一",
+              "figure_zone": "f01-l-feature-2",
+              "language": "lzh"
+            },
+            {
+              "type": "printer-seal",
+              "location": "圖說末方印",
+              "text": "",
+              "figure_zone": "f01-l-feature-3"
+            }
+          ]
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f01-r-feature-1",
+          "type": "article-title",
+          "bbox": [
+            1895,
+            452,
+            2042,
+            804
+          ]
+        },
+        {
+          "id": "f01-r-feature-2",
+          "type": "artist-signature",
+          "bbox": [
+            2267,
+            2071,
+            2307,
+            2129
+          ]
+        },
+        {
+          "id": "f01-r-feature-3",
+          "type": "artist-seal",
+          "bbox": [
+            2264,
+            2121,
+            2315,
+            2155
+          ]
+        },
+        {
+          "id": "f01-l-feature-1",
+          "type": "form-mark",
+          "bbox": [
+            46,
+            1745,
+            86,
+            1836
+          ]
+        },
+        {
+          "id": "f01-l-feature-2",
+          "type": "form-mark",
+          "bbox": [
+            46,
+            2021,
+            89,
+            2114
+          ]
+        },
+        {
+          "id": "f01-l-feature-3",
+          "type": "printer-seal",
+          "bbox": [
+            750,
+            521,
+            803,
+            584
+          ]
+        }
+      ],
+      "printed_article_title": "瞽目復明",
+      "issues": [
+        {
+          "side": "right",
+          "column": 9,
+          "context": "勿賸論□奇者",
+          "candidates": [
+            "賸",
+            "贅",
+            "噫",
+            "嗟"
+          ],
+          "note": "論兩側有走筆，待核各字。"
+        },
+        {
+          "side": "right",
+          "column": 13,
+          "context": "似雉子",
+          "candidates": [
+            "雉",
+            "雞"
+          ],
+          "note": "隹旁上有細筆，依初讀保留候選。"
+        }
+      ]
+    }
+  ]
+}

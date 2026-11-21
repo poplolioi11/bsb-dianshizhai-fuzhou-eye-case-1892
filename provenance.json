@@ -1,0 +1,24 @@
+{
+  "historical_author": "《點石齋畫報》編刊者（畫款符節，正文無署名）",
+  "source_identity": "Bayerische Staatsbibliothek L.sin. K 175-23/30, bsb00075646, scan 417",
+  "source": "https://opacplus.bsb-muenchen.de/title/BV040390408",
+  "iiif_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075646/manifest",
+  "source_rights_policy": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "dataset_version": "0.1.0",
+  "scan_count": 1,
+  "content_scan_count": 1,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075646/canvas/417",
+      "label": {
+        "none": [
+          "匏一・五・瞽目復明"
+        ]
+      },
+      "sha256": "6ec9d64a5a7d26977ced47d4cb78d437e626c2b9fc320c71240fd2138f17e1ec",
+      "content_role": "complete-illustrated-report"
+    }
+  ]
+}
